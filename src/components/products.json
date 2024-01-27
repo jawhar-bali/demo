@@ -1,0 +1,705 @@
+[
+   
+    {
+      "name": "Ails Grillés",
+      "product_id": 6321,
+      "total_quantity": 20,
+      "total_sales": 170
+    },
+    {
+      "name": "Amaretti",
+      "product_id": 6349,
+      "total_quantity": 93,
+      "total_sales": 1302
+    },
+    {
+      "name": "Bachkoutou",
+      "product_id": 6480,
+      "total_quantity": 17,
+      "total_sales": 127.9
+    },
+    {
+      "name": "Bachkoutou Light",
+      "product_id": 6497,
+      "total_quantity": 188,
+      "total_sales": 451.2
+    },
+    {
+      "name": "Bachkoutou Noisette",
+      "product_id": 6592,
+      "total_quantity": 19,
+      "total_sales": 62.03
+    },
+    {
+      "name": "Baklawa Amande",
+      "product_id": 4580,
+      "total_quantity": 58,
+      "total_sales": 314
+    },
+    {
+      "name": "Baklawa Amande Light",
+      "product_id": 6559,
+      "total_quantity": 79,
+      "total_sales": 475.2
+    },
+    {
+      "name": "Baklawa Bey Amande",
+      "product_id": 6561,
+      "total_quantity": 16,
+      "total_sales": 89.6
+    },
+    {
+      "name": "Baklawa Bey Fekia",
+      "product_id": 6564,
+      "total_quantity": 12,
+      "total_sales": 168
+    },
+    {
+      "name": "Baklawa Bourgeoise",
+      "product_id": 6566,
+      "total_quantity": 43,
+      "total_sales": 561.7
+    },
+    {
+      "name": "Baklawa Fekia",
+      "product_id": 6568,
+      "total_quantity": 73,
+      "total_sales": 546.6
+    },
+    {
+      "name": "Baklawa Libanaise Noix",
+      "product_id": 4557,
+      "total_quantity": 18,
+      "total_sales": 70.19999999999999
+    },
+    {
+      "name": "Baklawa Libanaise Noix - 120gr",
+      "product_id": 4557,
+      "total_quantity": 10,
+      "total_sales": 69
+    },
+    {
+      "name": "Baklawa Pistache",
+      "product_id": 6572,
+      "total_quantity": 37,
+      "total_sales": 415
+    },
+    {
+      "name": "Ballotin Miss Flower",
+      "product_id": 6574,
+      "total_quantity": 12,
+      "total_sales": 456
+    },
+    {
+      "name": "Ballotin Miss Flower",
+      "product_id": 8397,
+      "total_quantity": 11,
+      "total_sales": 308
+    },
+    {
+      "name": "Ballotin Miss Flower",
+      "product_id": 8401,
+      "total_quantity": 23,
+      "total_sales": 483
+    },
+    {
+      "name": "Barquette Bachkoutou",
+      "product_id": 6480,
+      "total_quantity": 128,
+      "total_sales": 1011.2
+    },
+    {
+      "name": "Barquette Biscuit Sésame",
+      "product_id": 6595,
+      "total_quantity": 12,
+      "total_sales": 78
+    },
+    {
+      "name": "Barquette Bjawia 240 Gr - 18 Pièces",
+      "product_id": 50899,
+      "total_quantity": 76,
+      "total_sales": 1371
+    },
+    {
+      "name": "Barquette Boulette Bey Amande 210 Gr -12 Pièces",
+      "product_id": 50896,
+      "total_quantity": 22,
+      "total_sales": 264
+    },
+    {
+      "name": "Barquette Kaak Ambar 205 Gr - 12 Pièces",
+      "product_id": 50901,
+      "total_quantity": 103,
+      "total_sales": 1954.5
+    },
+    {
+      "name": "Barquette Kaak Madhfour 230 Gr -16 Pièces",
+      "product_id": 50903,
+      "total_quantity": 33,
+      "total_sales": 462
+    },
+    {
+      "name": "Barquette Kaak Warka 215g",
+      "product_id": 50907,
+      "total_quantity": 52,
+      "total_sales": 676
+    },
+    {
+      "name": "Barquette Mlabes Amande PM 225G - 22 Pièces",
+      "product_id": 50905,
+      "total_quantity": 67,
+      "total_sales": 904.5
+    },
+    {
+      "name": "Barquette Samsa 155G - 8 Pièces",
+      "product_id": 50908,
+      "total_quantity": 32,
+      "total_sales": 320
+    },
+    {
+      "name": "Barquette Tajin Amande 200 Gr - 11 Pièces",
+      "product_id": 50887,
+      "total_quantity": 44,
+      "total_sales": 506
+    },
+    {
+      "name": "Basboussa",
+      "product_id": 4567,
+      "total_quantity": 13,
+      "total_sales": 23.4
+    },
+    {
+      "name": "Biscuit fourré amande",
+      "product_id": 6590,
+      "total_quantity": 11,
+      "total_sales": 72
+    },
+    {
+      "name": "Bjawia",
+      "product_id": 49694,
+      "total_quantity": 38,
+      "total_sales": 282.2
+    },
+    {
+      "name": "Boite Baklawa Amande 1Kg",
+      "product_id": 50868,
+      "total_quantity": 26,
+      "total_sales": 1412
+    },
+    {
+      "name": "Boite Baklawa Amande 780Gr - 39 Pièces",
+      "product_id": 50871,
+      "total_quantity": 26,
+      "total_sales": 1095
+    },
+    {
+      "name": "Boite Bryouette Amande 510Gr - 30 Pièces",
+      "product_id": 50879,
+      "total_quantity": 32,
+      "total_sales": 966
+    },
+    {
+      "name": "Boite Ghrayba Droo - 23 Pièces -460Gr",
+      "product_id": 50863,
+      "total_quantity": 36,
+      "total_sales": 468
+    },
+    {
+      "name": "Boite Ghrayba Homs - 25 Pièces -520Gr",
+      "product_id": 50709,
+      "total_quantity": 103,
+      "total_sales": 1139
+    },
+    {
+      "name": "Boite Kaak Homs 1Kg - 55 Pièces",
+      "product_id": 50890,
+      "total_quantity": 29,
+      "total_sales": 774
+    },
+    {
+      "name": "Boite Kaak Homs 585Gr - 23 Pièces",
+      "product_id": 50860,
+      "total_quantity": 22,
+      "total_sales": 342
+    },
+    {
+      "name": "Boite Kaak Warka 1Kg -55 Pièces",
+      "product_id": 50876,
+      "total_quantity": 21,
+      "total_sales": 1200
+    },
+    {
+      "name": "Boite Kaak Warka 580Gr - 28 Pièces",
+      "product_id": 50866,
+      "total_quantity": 47,
+      "total_sales": 1553
+    },
+    {
+      "name": "Boite Makroudh Asmar 570Gr - 24 Pièces",
+      "product_id": 50885,
+      "total_quantity": 34,
+      "total_sales": 442
+    },
+    {
+      "name": "Boite Samsa 460Gr - 23 Pièces",
+      "product_id": 50872,
+      "total_quantity": 22,
+      "total_sales": 638
+    },
+    {
+      "name": "Boulette Bey Amande",
+      "product_id": 4347,
+      "total_quantity": 37,
+      "total_sales": 203.5
+    },
+    {
+      "name": "Boulette Noix Amande",
+      "product_id": 6921,
+      "total_quantity": 23,
+      "total_sales": 133.8
+    },
+    {
+      "name": "Boulette Noix Fekia",
+      "product_id": 6943,
+      "total_quantity": 45,
+      "total_sales": 334.2
+    },
+    {
+      "name": "Bryouette Amande",
+      "product_id": 6950,
+      "total_quantity": 33,
+      "total_sales": 194.7
+    },
+    {
+      "name": "Bryouette Amande Light",
+      "product_id": 6955,
+      "total_quantity": 24,
+      "total_sales": 168.8
+    },
+    {
+      "name": "Bryouette Libanaise Noisette",
+      "product_id": 6969,
+      "total_quantity": 27,
+      "total_sales": 102.6
+    },
+    {
+      "name": "Bryouette Libanaise Pistache",
+      "product_id": 6974,
+      "total_quantity": 15,
+      "total_sales": 69
+    },
+    {
+      "name": "Bryouette Pistache",
+      "product_id": 6957,
+      "total_quantity": 11,
+      "total_sales": 220
+    },
+    {
+      "name": "Chapelure Panko",
+      "product_id": 4493,
+      "total_quantity": 11,
+      "total_sales": 53.900000000000006
+    },
+    {
+      "name": "Charmoula",
+      "product_id": 6469,
+      "total_quantity": 12,
+      "total_sales": 97.8
+    },
+    {
+      "name": "Chechia Framboise Pistache",
+      "product_id": 8625,
+      "total_quantity": 21,
+      "total_sales": 186.9
+    },
+    {
+      "name": "Coffret Bourgeons De Violette",
+      "product_id": 4421,
+      "total_quantity": 25,
+      "total_sales": 1610
+    },
+    {
+      "name": "Coffret Luxia Epanoui",
+      "product_id": 4413,
+      "total_quantity": 12,
+      "total_sales": 1200
+    },
+    {
+      "name": "Coffret Saveurs d'Antan",
+      "product_id": 7056,
+      "total_quantity": 45,
+      "total_sales": 1755
+    },
+    {
+      "name": "Cookies Pistache Light",
+      "product_id": 9785,
+      "total_quantity": 22,
+      "total_sales": 104.8
+    },
+    {
+      "name": "Corne de Gazelle",
+      "product_id": 7015,
+      "total_quantity": 10,
+      "total_sales": 26.5
+    },
+    {
+      "name": "Couronne Noisette",
+      "product_id": 7008,
+      "total_quantity": 15,
+      "total_sales": 165
+    },
+    {
+      "name": "Couronne Pistache",
+      "product_id": 7005,
+      "total_quantity": 12,
+      "total_sales": 192
+    },
+    {
+      "name": "Croquant",
+      "product_id": 6843,
+      "total_quantity": 18,
+      "total_sales": 34.2
+    },
+    {
+      "name": "Croquant Light",
+      "product_id": 6845,
+      "total_quantity": 36,
+      "total_sales": 146
+    },
+    {
+      "name": "Cupcake Pistache",
+      "product_id": 6405,
+      "total_quantity": 10,
+      "total_sales": 130
+    },
+    {
+      "name": "Datte Crunchy Café",
+      "product_id": 51001,
+      "total_quantity": 11,
+      "total_sales": 81.4
+    },
+    {
+      "name": "Datte Crunchy Noisette",
+      "product_id": 51005,
+      "total_quantity": 19,
+      "total_sales": 140.6
+    },
+    {
+      "name": "Datte Farcie Noisette",
+      "product_id": 6421,
+      "total_quantity": 11,
+      "total_sales": 74.8
+    },
+    {
+      "name": "Dawama",
+      "product_id": 6466,
+      "total_quantity": 11,
+      "total_sales": 62.4
+    },
+    {
+      "name": "Dawama Light",
+      "product_id": 6478,
+      "total_quantity": 18,
+      "total_sales": 113.2
+    },
+    {
+      "name": "Doria Aux Amandes",
+      "product_id": 7973,
+      "total_quantity": 13,
+      "total_sales": 41.9
+    },
+    {
+      "name": "Doria Sésame",
+      "product_id": 4573,
+      "total_quantity": 10,
+      "total_sales": 18
+    },
+    {
+      "name": "Ghrayba Droo Amande",
+      "product_id": 4321,
+      "total_quantity": 17,
+      "total_sales": 47.6
+    },
+    {
+      "name": "Ghrayba Droo Light",
+      "product_id": 6613,
+      "total_quantity": 34,
+      "total_sales": 102.2
+    },
+    {
+      "name": "Ghrayba Droo Sésame",
+      "product_id": 6618,
+      "total_quantity": 43,
+      "total_sales": 77.4
+    },
+    {
+      "name": "Ghrayba Homs",
+      "product_id": 4319,
+      "total_quantity": 44,
+      "total_sales": 88.2
+    },
+    {
+      "name": "Ghrayba Light",
+      "product_id": 6650,
+      "total_quantity": 93,
+      "total_sales": 285.8
+    },
+    {
+      "name": "Ghrayba Noisette",
+      "product_id": 6655,
+      "total_quantity": 10,
+      "total_sales": 48
+    },
+    {
+      "name": "Ghrayba Pistache",
+      "product_id": 6662,
+      "total_quantity": 14,
+      "total_sales": 72.8
+    },
+    {
+      "name": "Ghrayba Sésame",
+      "product_id": 6686,
+      "total_quantity": 31,
+      "total_sales": 68.2
+    },
+    {
+      "name": "Hrisa Amande",
+      "product_id": 7975,
+      "total_quantity": 42,
+      "total_sales": 134.4
+    },
+    {
+      "name": "Hrisa Pistache",
+      "product_id": 7977,
+      "total_quantity": 30,
+      "total_sales": 156
+    },
+    {
+      "name": "Kaak Semoule",
+      "product_id": 6424,
+      "total_quantity": 38,
+      "total_sales": 76
+    },
+    {
+      "name": "Kaak Semoule Light",
+      "product_id": 7101,
+      "total_quantity": 21,
+      "total_sales": 58.8
+    },
+    {
+      "name": "Kaak Semoule Noix",
+      "product_id": 7104,
+      "total_quantity": 1003,
+      "total_sales": 3610.2
+    },
+    {
+      "name": "Kaak Warka Light",
+      "product_id": 7111,
+      "total_quantity": 51,
+      "total_sales": 450
+    },
+    {
+      "name": "Kaak Youyou Aux Amandes",
+      "product_id": 7116,
+      "total_quantity": 27,
+      "total_sales": 70.2
+    },
+    {
+      "name": "Kaak Youyou Sésame",
+      "product_id": 4576,
+      "total_quantity": 45,
+      "total_sales": 81
+    },
+    {
+      "name": "Kâak Amande",
+      "product_id": 6828,
+      "total_quantity": 34,
+      "total_sales": 201.2
+    },
+    {
+      "name": "Kâak Amande Light",
+      "product_id": 6832,
+      "total_quantity": 14,
+      "total_sales": 109.4
+    },
+    {
+      "name": "Kâak Ambar Pistache",
+      "product_id": 6720,
+      "total_quantity": 13,
+      "total_sales": 192.4
+    },
+    {
+      "name": "Kâak Anbar",
+      "product_id": 6835,
+      "total_quantity": 14,
+      "total_sales": 77
+    },
+    {
+      "name": "Kâak Homs Amande",
+      "product_id": 6318,
+      "total_quantity": 16,
+      "total_sales": 41.7
+    },
+    {
+      "name": "Kâak Madhfour Menthe",
+      "product_id": 6339,
+      "total_quantity": 20,
+      "total_sales": 118.6
+    },
+    {
+      "name": "Kâak Warka",
+      "product_id": 4357,
+      "total_quantity": 1130,
+      "total_sales": 6441.599999999999
+    },
+    {
+      "name": "Kâak Warka Pistache",
+      "product_id": 7113,
+      "total_quantity": 24,
+      "total_sales": 211.20000000000002
+    },
+    {
+      "name": "Makroudh Asmar",
+      "product_id": 4328,
+      "total_quantity": 44,
+      "total_sales": 96.8
+    },
+    {
+      "name": "Mlabes Amande",
+      "product_id": 7139,
+      "total_quantity": 27,
+      "total_sales": 157
+    },
+    {
+      "name": "Mlabes Amande - 460gr",
+      "product_id": 7139,
+      "total_quantity": 701,
+      "total_sales": 18927
+    },
+    {
+      "name": "Mlabes Amande Light",
+      "product_id": 7145,
+      "total_quantity": 18,
+      "total_sales": 125.4
+    },
+    {
+      "name": "Mlabes Amande Rose",
+      "product_id": 7155,
+      "total_quantity": 11,
+      "total_sales": 74.8
+    },
+    {
+      "name": "Mlabes Pistache",
+      "product_id": 6368,
+      "total_quantity": 14,
+      "total_sales": 154
+    },
+    {
+      "name": "Mosaïque Amande",
+      "product_id": 6378,
+      "total_quantity": 11,
+      "total_sales": 470
+    },
+    {
+      "name": "Mosaïque Pistache",
+      "product_id": 6390,
+      "total_quantity": 15,
+      "total_sales": 465.6
+    },
+    {
+      "name": "Och BolBol",
+      "product_id": 4339,
+      "total_quantity": 24,
+      "total_sales": 141.6
+    },
+    {
+      "name": "Oudhen El Kadhi",
+      "product_id": 50783,
+      "total_quantity": 58,
+      "total_sales": 162.4
+    },
+    {
+      "name": "Perle Pignon Pistache",
+      "product_id": 6552,
+      "total_quantity": 10,
+      "total_sales": 240
+    },
+    {
+      "name": "Petit Four",
+      "product_id": 6683,
+      "total_quantity": 27,
+      "total_sales": 140.4
+    },
+    {
+      "name": "Plaisir caramélia",
+      "product_id": 13782,
+      "total_quantity": 11,
+      "total_sales": 105.6
+    },
+    {
+      "name": "Plateau Bourgeois",
+      "product_id": 4423,
+      "total_quantity": 56,
+      "total_sales": 3169
+    },
+    {
+      "name": "Plateau Prestige",
+      "product_id": 4426,
+      "total_quantity": 36,
+      "total_sales": 2034
+    },
+    {
+      "name": "Plateau Royal",
+      "product_id": 4430,
+      "total_quantity": 88,
+      "total_sales": 6065
+    },
+    {
+      "name": "Samsa Fekia",
+      "product_id": 6750,
+      "total_quantity": 114,
+      "total_sales": 708.8
+    },
+    {
+      "name": "Samsa Fekia Light",
+      "product_id": 4575,
+      "total_quantity": 31,
+      "total_sales": 216
+    },
+    {
+      "name": "Samsa Noisette",
+      "product_id": 4563,
+      "total_quantity": 18,
+      "total_sales": 111.60000000000001
+    },
+    {
+      "name": "Samsa Pistache",
+      "product_id": 6745,
+      "total_quantity": 15,
+      "total_sales": 157.5
+    },
+    {
+      "name": "Tajin Amande",
+      "product_id": 6646,
+      "total_quantity": 26,
+      "total_sales": 148.2
+    },
+    {
+      "name": "Tajin Amande Light",
+      "product_id": 6641,
+      "total_quantity": 19,
+      "total_sales": 193.2
+    },
+    {
+      "name": "Varié Amande",
+      "product_id": 4586,
+      "total_quantity": 13,
+      "total_sales": 258.7
+    },
+    {
+      "name": "Varié Light",
+      "product_id": 4581,
+      "total_quantity": 18,
+      "total_sales": 288
+    }
+  ]
